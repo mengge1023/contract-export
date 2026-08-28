@@ -1,0 +1,7 @@
+interface:
+  display_name: "签合同，导出合同"
+  short_description: "从学员表批量生成、命名、校验并导出合同"
+  default_prompt: "Use $contract-export to read my student roster and Word template, generate valid contracts, and list records that need correction."
+
+policy:
+  allow_implicit_invocation: true

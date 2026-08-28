@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Never commit student data or generated contracts.
+students.json
+outputs/
+*.docx
+*.xlsx
+*.xls
+*.zip
